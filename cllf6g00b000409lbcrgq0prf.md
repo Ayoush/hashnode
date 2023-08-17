@@ -3,6 +3,7 @@ title: "Writing Clean Code: Mastering Functions for Better Codebase"
 datePublished: Thu Aug 17 2023 13:08:11 GMT+0000 (Coordinated Universal Time)
 cuid: cllf6g00b000409lbcrgq0prf
 slug: writing-clean-code-mastering-functions-for-better-codebase
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HsTnjCVQ798/upload/215f1ba2c356b7acbd45c14351d2980a.jpeg
 tags: software-development, software-architecture, developer, software-engineering, clean-code
 
 ---
