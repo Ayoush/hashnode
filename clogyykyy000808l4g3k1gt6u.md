@@ -3,6 +3,7 @@ title: "Demystifying Elixir Functions: A Comprehensive Guide — Part 4 -Sub
 datePublished: Thu Nov 02 2023 09:13:21 GMT+0000 (Coordinated Universal Time)
 cuid: clogyykyy000808l4g3k1gt6u
 slug: demystifying-elixir-functions-a-comprehensive-guide-part-4-subpart-13-of-our-elixir-series
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Pv5WeEyxMWU/upload/d52743c121d1919d87221f761ea896f5.jpeg
 tags: phoenix, software-development, software-architecture, elixir, software-engineering
 
 ---
